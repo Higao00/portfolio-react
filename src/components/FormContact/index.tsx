@@ -41,7 +41,7 @@ const FormContact = (props: IFormContact) => {
     return (
         <S.Container>
             <S.ContainerQrCode>
-                <S.QrCode src="https://drive.google.com/uc?id=10DdkeUffPF2JJdV_5DRRzo38ZwlbbEqR" />
+                <S.QrCode src="https://zurke-innovation.s3.us-east-1.amazonaws.com/portfolio/images/qr-codes/qrcode-contato-higor.png" />
 
                 <S.Title>My personal data to contact.</S.Title>
             </S.ContainerQrCode>
